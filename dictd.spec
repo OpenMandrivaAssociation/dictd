@@ -173,8 +173,8 @@ rm -rf %{buildroot}
 %{_mandir}/man1/dictfmt*
 %{_mandir}/man1/dictunformat.*
 %{_mandir}/man1/dictzip.*
-%{_mandir}/man1/colorit.1.bz2
-%{_mandir}/man1/dictl.1.bz2
+%{_mandir}/man1/colorit.*
+%{_mandir}/man1/dictl.*
 
 %{_bindir}/dictfmt*
 %{_bindir}/dictunformat
