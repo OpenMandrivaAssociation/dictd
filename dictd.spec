@@ -1,5 +1,5 @@
 %define version 1.10.1
-%define release %mkrel 6
+%define release %mkrel 8
 
 # NEC Socks V5 support
 %define enable_socks 0
