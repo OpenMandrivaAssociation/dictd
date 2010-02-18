@@ -22,7 +22,7 @@ Source3:	%name
 Source4:	update-%{name}.conf
 
 # (Abel) Add missing include when compiling sample plugins
-Patch0:		%{name}-1.9.7-missing-header.patch
+Patch0:		%{name}-1.10.1-missing-header.patch
 
 
 Requires:	%{name}-server = %version-%release
