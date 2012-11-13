@@ -1,0 +1,5 @@
+sources:
+  "dictd-1.10.1.tar.bz2:"	5c3eb747015eb4c3a3e4fdfd6660437721faa101
+  "dictd.init:"	9e59b6a55260581e77c8ac46bcf5e875d3adb270
+  "dictd.sysconfig:"	6b0351f22d4a296b8612dcd71f224a29ad013747
+  "update-dictd.conf:"	a224a4dad57f5ec73cb1c0db8dcb565f5cc38154

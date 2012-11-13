@@ -1,0 +1,10 @@
+--- dictd-1.10.1/dictdplugin_popen.cpp.include	2003-08-07 13:49:47.000000000 +0200
++++ dictd-1.10.1/dictdplugin_popen.cpp	2010-02-18 15:46:34.000000000 +0100
+@@ -42,6 +42,7 @@
+ #include <stdlib.h>
+ #include <stdio.h>
+ #include <errno.h>
++#include <cassert>
+ #include <string>
+ #include <unistd.h>
+ #include <sstream>
