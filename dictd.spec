@@ -11,7 +11,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Text tools
-URL:		http://www.dict.org/
+URL:		https://www.dict.org/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 Source0:	http://internap.dl.sourceforge.net/sourceforge/dict/%name-%version.tar.bz2
